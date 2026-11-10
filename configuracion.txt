@@ -1,0 +1,41 @@
+[gameplay]
+sol_inicial = 50
+valor_sol = 25
+sol_automatico_frecuencia = 10
+tiempo_preparacion = 25
+tiempo_total = 120
+oleadas = 1
+resistencia_casa = 1
+
+[zombie_base]
+vida = 10
+danio = 1
+velocidad = 0.15
+frecuencia_ataque = 0.3
+
+[zombie_bandera]
+vida = 10
+danio = 1
+velocidad = 0.20
+frecuencia_ataque = 0.3
+
+[planta_lanzaguisantes]
+coste = 100
+vida = 5
+danio = 1
+frecuencia_ataque = 1.5
+rango = -1
+
+
+[planta_girasol]
+coste = 50
+vida = 5
+frecuencia_sol = 25
+
+[planta_nuez]
+coste = 50
+vida = 60
+
+	
+
+
